@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/odai-alloush/static/css/main.1c08f1fc.css",
+    "main.js": "/odai-alloush/static/js/main.ed085077.js",
+    "static/js/453.ace21015.chunk.js": "/odai-alloush/static/js/453.ace21015.chunk.js",
+    "static/media/1.jpg": "/odai-alloush/static/media/1.7bbd3b963a7adef9562f.jpg",
+    "static/media/3.jpg": "/odai-alloush/static/media/3.1c6f1be497b2031ffa6d.jpg",
+    "static/media/2.jpg": "/odai-alloush/static/media/2.73b2fbf7a081ad79345e.jpg",
+    "static/media/4.jpg": "/odai-alloush/static/media/4.8cfe99253cf38a00f737.jpg",
+    "static/media/5.jpg": "/odai-alloush/static/media/5.8491f9f2b9436c63152d.jpg",
+    "static/media/bg.jpg": "/odai-alloush/static/media/bg.88198856f3940fe666a3.jpg",
+    "static/media/avatar.jpg": "/odai-alloush/static/media/avatar.e41a3ac77e9d28a89831.jpg",
+    "static/media/overlay.png": "/odai-alloush/static/media/overlay.3fba5f6975280db3a12b.png",
+    "static/media/instagram.svg": "/odai-alloush/static/media/instagram.a0a9a83448ddb5827d70493a84d37806.svg",
+    "static/media/whatsapp.svg": "/odai-alloush/static/media/whatsapp.f2883296e5f8c40374f487bfc522416c.svg",
+    "index.html": "/odai-alloush/index.html",
+    "main.1c08f1fc.css.map": "/odai-alloush/static/css/main.1c08f1fc.css.map",
+    "main.ed085077.js.map": "/odai-alloush/static/js/main.ed085077.js.map",
+    "453.ace21015.chunk.js.map": "/odai-alloush/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c08f1fc.css",
+    "static/js/main.ed085077.js"
+  ]
+}
