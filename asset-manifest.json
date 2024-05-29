@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wassim-ibrahem/static/css/main.07faa40c.css",
+    "main.js": "/wassim-ibrahem/static/js/main.4a2a4ef4.js",
+    "static/js/453.1407b060.chunk.js": "/wassim-ibrahem/static/js/453.1407b060.chunk.js",
+    "static/media/1.mp4": "/wassim-ibrahem/static/media/1.b3a7cf1a8b39d331847e.mp4",
+    "static/media/bg.jpg": "/wassim-ibrahem/static/media/bg.88198856f3940fe666a3.jpg",
+    "static/media/1.jpg": "/wassim-ibrahem/static/media/1.4c47ba6a51efe216c41e.jpg",
+    "static/media/2.jpg": "/wassim-ibrahem/static/media/2.faf65d0d3f17b84e75d1.jpg",
+    "static/media/4.jpg": "/wassim-ibrahem/static/media/4.5043245e70582add8d3e.jpg",
+    "static/media/avatar.jpg": "/wassim-ibrahem/static/media/avatar.7192f15e754563f5bb6a.jpg",
+    "static/media/3.jpg": "/wassim-ibrahem/static/media/3.9ef396e49aaa9fca3111.jpg",
+    "static/media/5.jpg": "/wassim-ibrahem/static/media/5.43eb2e28b9ea867639e3.jpg",
+    "static/media/overlay.png": "/wassim-ibrahem/static/media/overlay.3fba5f6975280db3a12b.png",
+    "static/media/instagram.svg": "/wassim-ibrahem/static/media/instagram.a0a9a83448ddb5827d70493a84d37806.svg",
+    "static/media/whatsapp.svg": "/wassim-ibrahem/static/media/whatsapp.f2883296e5f8c40374f487bfc522416c.svg",
+    "index.html": "/wassim-ibrahem/index.html",
+    "main.07faa40c.css.map": "/wassim-ibrahem/static/css/main.07faa40c.css.map",
+    "main.4a2a4ef4.js.map": "/wassim-ibrahem/static/js/main.4a2a4ef4.js.map",
+    "453.1407b060.chunk.js.map": "/wassim-ibrahem/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07faa40c.css",
+    "static/js/main.4a2a4ef4.js"
+  ]
+}
